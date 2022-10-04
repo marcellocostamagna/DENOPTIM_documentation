@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="25,367,103,393"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_population.html" title="A collection of candidates." alt="" coords="194,5,350,32"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_xover_site.html" title="This class collects the data identifying the subgraphs that would be swapped by a crossover event." alt="" coords="196,588,348,615"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_a_p_class.html" title=" " alt="" coords="190,56,354,83"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_a_p_mapping.html" title="Class representing a mapping between attachment points (APs)." alt="" coords="182,740,362,767"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_attachment_point.html" title="An attachment point (AP) is a possibility to attach a Vertex onto the vertex holding the AP (i...." alt="" coords="182,107,362,149"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_candidate.html" title="A candidate is the combination of a denoptim graph with molecular representation and may include also..." alt="" coords="187,173,357,200"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_d_graph.html" title="Container for the list of vertices and the edges that connect them." alt="" coords="193,639,351,665"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_symmetric_set.html" title="Class representing a list of IDs pointing to instances that are related by some conventional criterio..." alt="" coords="175,689,369,716"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_vertex.html" title="A vertex is a data structure that has an identity and holds a list of AttachmentPoints." alt="" coords="197,224,347,251"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1rings_1_1_chain_link.html" title="ChainLink represents a vertex in a closable chain." alt="" coords="171,275,373,301"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1rings_1_1_closable_chain.html" title="ClosableChain represents a chain of fragments (chain links) that is closable (or candidate closable)." alt="" coords="175,326,369,367"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1integration_1_1tinker_1_1_tinker_atom.html" title="Based on the code from ffx.kenai.com Michael J." alt="" coords="184,391,360,433"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1integration_1_1tinker_1_1_tinker_bond.html" title=" " alt="" coords="184,457,360,498"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1integration_1_1tinker_1_1_tinker_molecule.html" title=" " alt="" coords="184,522,360,563"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_empty_vertex.html" title="An empty vertex has the behaviors of a vertex, but has no molecular structure." alt="" coords="421,173,608,200"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_fragment.html" title="Class representing a continuously connected portion of chemical object holding attachment points." alt="" coords="431,224,599,251"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_template.html" title=" " alt="" coords="431,275,598,301"/>
+<area shape="rect" id="node19" title=" " alt="" coords="19,115,109,141"/>
+<area shape="rect" id="node20" title=" " alt="" coords="27,5,101,32"/>
+<area shape="rect" id="node21" title=" " alt="" coords="5,740,123,767"/>
+</map>

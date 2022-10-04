@@ -1,0 +1,11 @@
+<map id="denoptim.ga.SelectionHelper.performTournamentSelection" name="denoptim.ga.SelectionHelper.performTournamentSelection">
+<area shape="rect" id="node1" title="Select p individuals at random." alt="" coords="1193,97,1428,139"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#aa58e7cef632419fceeeb96e09b3e09fc" title="Selects a number of members from the given population." alt="" coords="968,97,1145,139"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5cb6bbe9f383bf821f3b1f1c5e60031b" title=" " alt="" coords="725,39,894,80"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a98553265dd4b441b11c6d97d098edb08" title="Generates a new offspring by performing a crossover operation." alt="" coords="477,125,646,167"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#af1c589b6d5ba261e1417f3cd299e8e5d" title="Perform fitness&#45;based, class&#45;compatible selection of parents that can do crossover operations." alt="" coords="699,155,920,182"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="472,39,651,80"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="259,39,424,80"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,71,198,112"/>
+</map>

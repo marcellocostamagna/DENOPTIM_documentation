@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfacedenoptim_1_1fitness_1_1_i_denoptim_descriptor.html" title="This interface forces descriptors that are not defined in the CDK ontology to provide information tha..." alt="" coords="9,5,188,47"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1fitness_1_1descriptors_1_1_tanimoto_mol_similarity.html" title="Calculates the molecular similarity against a target compound the fingerprint of which is given as pa..." alt="" coords="266,28,453,69"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1fitness_1_1descriptors_1_1_tanimoto_mol_similarity_by_substructure.html" title="Calculates the molecular similarity against a target compound the fingerprint of which is given as pa..." alt="" coords="240,93,479,135"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,71,192,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="28,122,169,149"/>
+</map>

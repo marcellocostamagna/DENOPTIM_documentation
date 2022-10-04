@@ -1,0 +1,5 @@
+<map id="denoptim.graph.SymmetricSet.clone" name="denoptim.graph.SymmetricSet.clone">
+<area shape="rect" id="node1" title="Returns a deep&#45;copy of this set." alt="" coords="5,39,180,80"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#aca0357f0402f8d0d5191ed6b60826baf" title="Adds an identifiers to this list." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#afb9b2aea52fcc24025aee6966b00de88" title="Constructor for an empty &quot;set&quot; (a list, actually)." alt="" coords="228,71,403,112"/>
+</map>

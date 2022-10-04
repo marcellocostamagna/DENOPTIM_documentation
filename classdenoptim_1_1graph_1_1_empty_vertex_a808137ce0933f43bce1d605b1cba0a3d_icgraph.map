@@ -1,0 +1,7 @@
+<map id="denoptim.graph.EmptyVertex.EmptyVertex" name="denoptim.graph.EmptyVertex.EmptyVertex">
+<area shape="rect" id="node1" title="Constructor for an empty vertex." alt="" coords="552,71,741,112"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_empty_vertex.html#a537720023ac6debd9f4663d61026a423" title="Returns a deep&#45;copy of this vertex." alt="" coords="284,78,504,105"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_vertex_test.html#ab36c441c57e9852e2be6d810d80fbc87" title=" " alt="" coords="20,5,221,47"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#a309f26b0bad9acff15e95672089c2432" title=" " alt="" coords="31,71,211,112"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#af2fc2503c300637c2369eb4347c990c1" title=" " alt="" coords="5,136,236,177"/>
+</map>

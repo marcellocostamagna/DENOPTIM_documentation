@@ -1,0 +1,12 @@
+<map id="denoptim.io.DenoptimIO.writeGraphToSDF" name="denoptim.io.DenoptimIO.writeGraphToSDF">
+<area shape="rect" id="node1" title="Writes the graph to SDF file." alt="" coords="1069,107,1260,149"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#a32b0be109306e9c81fc830867296bc66" title="Extracts a system of one or more fused rings and adds them to the fragment space if not already prese..." alt="" coords="472,13,733,54"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5cb6bbe9f383bf821f3b1f1c5e60031b" title=" " alt="" coords="817,107,986,149"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#ae0fc307ce14bc73de8cb51459e122392" title="Selects only the atoms that originate from a subgraph of a whole graph that originated the whole mole..." alt="" coords="788,42,1015,83"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_graph_operations.html#a31415e2dbad52f4e03cdd7b5f42950a6" title="Mutates the given vertex according to the given mutation type, if possible." alt="" coords="781,173,1021,214"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1io_1_1_denoptim_i_o.html#a079563895e42e37bc3de1388dc1a2665" title="Writes the a graph to file." alt="" coords="806,238,997,279"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="513,107,692,149"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="259,107,424,149"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,74,211,115"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,139,198,181"/>
+</map>

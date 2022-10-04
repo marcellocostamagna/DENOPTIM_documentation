@@ -1,0 +1,5 @@
+<map id="denoptim.gui.FSEParametersForm.putParametersToString" name="denoptim.gui.FSEParametersForm.putParametersToString">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,196,96"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1gui_1_1_parameters_form.html#adba801c985eb2aa293c9dc1ce455fb63" title="Produced the KEY:VALUE string for a general text field." alt="" coords="257,5,473,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1gui_1_1_f_s_e_parameters_form.html#a1234cecc07c0e1f8f33a1adbd42b26be" title="Imports parameters from a properly formatted parameters file." alt="" coords="244,95,487,151"/>
+</map>

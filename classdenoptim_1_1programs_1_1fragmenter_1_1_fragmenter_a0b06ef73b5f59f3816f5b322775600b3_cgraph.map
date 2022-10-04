@@ -1,0 +1,5 @@
+<map id="denoptim.programs.fragmenter.Fragmenter.handleThrowable" name="denoptim.programs.fragmenter.Fragmenter.handleThrowable">
+<area shape="rect" id="node1" title="Method to handle any Throwable originated from the runProgram() method." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1task_1_1_parallel_asynchronous_task_executor.html#a662a7724fc1c6fd4c7a44cb437918f78" title="Stops all subtasks and shutdown executor." alt="" coords="253,5,484,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1task_1_1_parallel_asynchronous_task_executor.html#aa3f3f77b12bd51d5897f920487cf3ba3" title="clean all reference to submitted tasks" alt="" coords="532,5,763,47"/>
+</map>

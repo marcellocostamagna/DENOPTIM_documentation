@@ -1,0 +1,8 @@
+<map id="denoptim.gui.FSParametersForm.putParametersToString" name="denoptim.gui.FSParametersForm.putParametersToString">
+<area shape="rect" id="node1" title=" " alt="" coords="5,128,195,169"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1gui_1_1_parameters_form.html#a625c868bd274a682e1c81eaaefce8f5d" title="Produced an overall string including one or more KEY:VALUE strings taken from a table." alt="" coords="267,29,483,71"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1gui_1_1_parameters_form.html#adba801c985eb2aa293c9dc1ce455fb63" title="Produced the KEY:VALUE string for a general text field." alt="" coords="267,95,483,136"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1gui_1_1_parameters_form.html#a8fe7e5b6db435de65b2629b0e175cc82" title="Produced the KEY:VALUE string for a on/off button." alt="" coords="267,160,483,201"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1gui_1_1_f_s_parameters_form.html#acf9f63e43965c7723e5b577212de9ecf" title=" " alt="" coords="243,225,508,267"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1gui_1_1_f_s_parameters_form.html#a3efd797a6bfa6106f3134ead85fcab5e" title="Imports parameters from a properly formatted parameters file." alt="" coords="556,218,799,274"/>
+</map>

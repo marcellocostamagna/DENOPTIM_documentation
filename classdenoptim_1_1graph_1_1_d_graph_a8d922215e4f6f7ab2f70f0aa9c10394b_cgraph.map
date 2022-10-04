@@ -1,0 +1,9 @@
+<map id="denoptim.graph.DGraph.reassignSymmetricLabels" name="denoptim.graph.DGraph.reassignSymmetricLabels">
+<area shape="rect" id="node1" title="Marks the vertices of this graph with a string that is consistent for all vertices that belong to sym..." alt="" coords="5,104,215,145"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="265,5,439,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_d_graph.html#a49bc7aa7c45f3aeaf6aff41095456c6e" title="Get an iterator for the sets of symmetrically related vertices." alt="" coords="263,71,441,112"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#af68c6f4772e3a77bbb4a63f98dc53d04" title=" " alt="" coords="263,136,441,177"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_vertex.html#ad26ecf426a5e415605df94be904e58d3" title=" " alt="" coords="267,201,437,243"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_d_graph.html#aff14a66b89e52205a4b6b6a633de0e7e" title="Returns the position of the first vertex that has the given ID." alt="" coords="489,136,680,177"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="728,136,899,177"/>
+</map>

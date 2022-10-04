@@ -1,0 +1,7 @@
+<map id="denoptim.graph.Fragment.identifySymmetryRelatedAPSets" name="denoptim.graph.Fragment.identifySymmetryRelatedAPSets">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,217,135"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_fragment.html#a90fc66d07e071376ee45a32ab8a76020" title="Checks if the atoms at the given positions have similar environments i.e." alt="" coords="278,5,485,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_a_p_class.html#a5cac5d20b70a0eace014ce062a271fbf" title=" " alt="" coords="265,71,497,98"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a31bed4cb29f6437bf8a888a1dda3fd95" title="Returns the Attachment Point class." alt="" coords="291,123,471,164"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a7e45846280a63bd2bf36b85e502ffa49" title="The index of the source atom in the atom list of the fragment." alt="" coords="283,188,480,229"/>
+</map>

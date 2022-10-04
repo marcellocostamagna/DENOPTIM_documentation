@@ -1,0 +1,5 @@
+<map id="denoptim.graph.Template.getIndexOfInnerAP" name="denoptim.graph.Template.getIndexOfInnerAP">
+<area shape="rect" id="node1" title="Returns the index of the given AP in the sorted iterations over the keys of the mapping between inner..." alt="" coords="492,5,680,47"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_template.html#a4e1f81acd762a2795026420494954653" title="The SymmetricSet produced from this method contain indexes of the AttachmentPoints in the list return..." alt="" coords="256,5,444,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1json_1_1_d_e_n_o_p_t_i_mgson_test.html#a78e6eb5e60124f63897dd28e1c21082d" title=" " alt="" coords="5,5,208,47"/>
+</map>

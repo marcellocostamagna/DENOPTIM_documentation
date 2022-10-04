@@ -1,0 +1,5 @@
+<map id="denoptim.fitness.IDenoptimDescriptor" name="denoptim.fitness.IDenoptimDescriptor">
+<area shape="rect" id="node1" title="This interface forces descriptors that are not defined in the CDK ontology to provide information tha..." alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1fitness_1_1descriptors_1_1_tanimoto_mol_similarity.html" title="Calculates the molecular similarity against a target compound the fingerprint of which is given as pa..." alt="" coords="258,5,445,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1fitness_1_1descriptors_1_1_tanimoto_mol_similarity_by_substructure.html" title="Calculates the molecular similarity against a target compound the fingerprint of which is given as pa..." alt="" coords="232,71,471,112"/>
+</map>

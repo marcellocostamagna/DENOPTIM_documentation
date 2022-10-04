@@ -1,0 +1,13 @@
+<map id="denoptim.programs.denovo.GAParameters.getNumberOfGenerations" name="denoptim.programs.denovo.GAParameters.getNumberOfGenerations">
+<area shape="rect" id="node1" title=" " alt="" coords="1209,66,1468,108"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#aeb642f3a46a239c05e36bf385e7f5243" title=" " alt="" coords="965,66,1161,108"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="259,157,424,198"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#ad094b30fa7e429418af3f5ba26addfa4" title=" " alt="" coords="970,153,1157,194"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1io_1_1_denoptim_i_o_test.html#af5c2f9114881ebde82a83f922c0c23fe" title=" " alt="" coords="707,80,917,121"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,124,211,165"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,189,198,230"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#aab14b898988cd607e9d08f09f2ba10cb" title="Creates a folder meant to hold all the data generated during a generation." alt="" coords="723,248,901,289"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="476,189,655,230"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#aecbe9af608218e129a006ddae17ac66b" title="Reads unique identifiers and initial population files according to the GAParameters." alt="" coords="476,124,655,165"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#ad43588620dab3340e0d8b0042ec73618" title="Fills up the population with candidates build from scratch." alt="" coords="472,306,659,348"/>
+</map>

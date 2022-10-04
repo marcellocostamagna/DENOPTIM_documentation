@@ -1,0 +1,20 @@
+<map id="denoptim.programs.fragmenter.FragmenterParameters" name="denoptim.programs.fragmenter.FragmenterParameters">
+<area shape="rect" id="node1" title="Parameters controlling execution of the fragmenter." alt="" coords="1072,401,1272,442"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1programs_1_1_run_time_parameters.html" title="Collection of parameters controlling the behavior of the software." alt="" coords="634,86,821,127"/>
+<area shape="rect" id="node3" title=" " alt="" coords="297,5,360,32"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1utils_1_1_randomizer.html" title="Tool to generate random numbers and random decisions." alt="" coords="242,56,415,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="195,107,463,163"/>
+<area shape="rect" id="node7" href="$enumdenoptim_1_1programs_1_1_run_time_parameters_1_1_parameters_type.html" title="Identifier of the type of parameters." alt="" coords="235,186,422,227"/>
+<area shape="rect" id="node8" title=" " alt="" coords="644,151,811,193"/>
+<area shape="rect" id="node9" title=" " alt="" coords="611,217,844,258"/>
+<area shape="rect" id="node10" title=" " alt="" coords="678,287,777,313"/>
+<area shape="rect" id="node11" title=" " alt="" coords="652,337,803,364"/>
+<area shape="rect" id="node12" title=" " alt="" coords="631,388,823,415"/>
+<area shape="rect" id="node13" title=" " alt="" coords="676,439,779,465"/>
+<area shape="rect" id="node14" title=" " alt="" coords="655,491,799,517"/>
+<area shape="rect" id="node15" title=" " alt="" coords="639,543,815,585"/>
+<area shape="rect" id="node16" title=" " alt="" coords="662,609,793,636"/>
+<area shape="rect" id="node17" title=" " alt="" coords="652,660,803,687"/>
+<area shape="rect" id="node18" title=" " alt="" coords="676,711,779,737"/>
+</map>

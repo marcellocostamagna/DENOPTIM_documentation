@@ -1,0 +1,5 @@
+<map id="denoptim.graph.DGraph.getVertexWithId" name="denoptim.graph.DGraph.getVertexWithId">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_d_graph.html#aff14a66b89e52205a4b6b6a633de0e7e" title="Returns the position of the first vertex that has the given ID." alt="" coords="232,5,423,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="471,5,641,47"/>
+</map>

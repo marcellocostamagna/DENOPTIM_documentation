@@ -1,0 +1,9 @@
+<map id="denoptim.graph.Vertex.getMutationTypes" name="denoptim.graph.Vertex.getMutationTypes">
+<area shape="rect" id="node1" title="Returns the list of mutation types." alt="" coords="572,104,743,145"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_graph_operations.html#afd659e74a056d1a6ae6f52513fee0be3" title="Deletes the given vertex and all other vertexes that are not connected to more than 2 non&#45;capping gro..." alt="" coords="293,5,524,47"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_empty_vertex.html#adadd10327030c3aed688648b7a00857a" title="A list of mutation sites from within this vertex." alt="" coords="305,71,512,112"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_fragment.html#a0685806b8ac90c0b23504a246618edec" title="A list of mutation sites from within this vertex." alt="" coords="314,136,503,177"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_template.html#a12b8da07fd36b5f756ec3c1cdbd3a8e9" title="A list of mutation sites from within this vertex." alt="" coords="315,201,503,243"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_graph_operations.html#a0c851972015fbb4b2a317b053b8b81d9" title="Mutates the given vertex according to the given mutation type, if possible." alt="" coords="5,5,245,47"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_e_a_utils_test.html#ab7a37d3340d35ab586332ce2122e7bb0" title=" " alt="" coords="17,201,234,243"/>
+</map>

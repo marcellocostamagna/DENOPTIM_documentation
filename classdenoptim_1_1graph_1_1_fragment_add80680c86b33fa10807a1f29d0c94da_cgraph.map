@@ -1,0 +1,20 @@
+<map id="denoptim.graph.Fragment.Fragment" name="denoptim.graph.Fragment.Fragment">
+<area shape="rect" id="node1" title="Constructor from an atom container, which has APs only as molecular properties." alt="" coords="5,376,176,417"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_fragment.html#a9f0d8233f6ed31316409d643b5e0f0cd" title=" " alt="" coords="239,57,429,99"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_vertex.html#a514b89b11dff8939e74e5b95e749b703" title=" " alt="" coords="249,123,419,164"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_fragment.html#a41f439afd1ed84bc64fa895b440f47ce" title=" " alt="" coords="228,188,440,229"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#a377eae6a6254a6d1bd0f218fc2552af3" title="Constructs a copy of an atom container, i.e., a molecule that reflects the one given in the input arg..." alt="" coords="225,253,443,295"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_fragment.html#af7bc0e99afc11e6e6715f5ddae31421a" title="Uses the molecular property defining attachment points to create the DENOPTIMAttachmentPoint objects ..." alt="" coords="229,343,439,384"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_vertex.html#a5dbac662f4102558f3cf874c55174c5e" title=" " alt="" coords="249,408,419,449"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_vertex.html#ab8088bc1c894c7c916ca8d8a151fa905" title=" " alt="" coords="249,473,419,515"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_vertex.html#ad26ecf426a5e415605df94be904e58d3" title=" " alt="" coords="249,539,419,580"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_fragment.html#a66decdfeee2f583361c51e00ac598557" title=" " alt="" coords="239,604,429,645"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#a364533d507e42ebb43dc537c0e3ad3a4" title="Sets zero implicit hydrogen count to all atoms." alt="" coords="224,669,444,711"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_vertex.html#a022f7c9075b178f17e13339b215ee21f" title=" " alt="" coords="523,5,693,47"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_fragment.html#a90fc66d07e071376ee45a32ab8a76020" title="Checks if the atoms at the given positions have similar environments i.e." alt="" coords="505,71,711,112"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_a_p_class.html#a5cac5d20b70a0eace014ce062a271fbf" title=" " alt="" coords="492,137,724,163"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a31bed4cb29f6437bf8a888a1dda3fd95" title="Returns the Attachment Point class." alt="" coords="518,188,698,229"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a7e45846280a63bd2bf36b85e502ffa49" title="The index of the source atom in the atom list of the fragment." alt="" coords="509,253,707,295"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#a68a0db70d2e6d3252269574918177014" title="Method that constructs an atom that reflect the same atom given as parameter in terms of element symb..." alt="" coords="499,343,717,384"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_vertex.html#a9ad275adf822019ad803cb3c95e9a6d2" title=" " alt="" coords="523,408,693,449"/>
+</map>

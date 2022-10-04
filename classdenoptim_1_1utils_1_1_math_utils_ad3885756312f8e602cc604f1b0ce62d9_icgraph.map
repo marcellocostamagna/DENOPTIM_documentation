@@ -1,0 +1,5 @@
+<map id="denoptim.utils.MathUtils.distance" name="denoptim.utils.MathUtils.distance">
+<area shape="rect" id="node1" title="Calculates distance between point a and point b." alt="" coords="649,13,863,39"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1molecularmodeling_1_1_chemical_object_model.html#ab0a2952925cf318fa872e349dd2709ae" title="Converts currently loaded internal coordinates into Cartesian overwriting the current XYZ." alt="" coords="332,5,601,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1molecularmodeling_1_1_chemical_object_model.html#a078749e82762b41d68b51bbc5af46e0c" title="Constructs a Molecule3DBuilder specifying all its features." alt="" coords="5,5,284,47"/>
+</map>

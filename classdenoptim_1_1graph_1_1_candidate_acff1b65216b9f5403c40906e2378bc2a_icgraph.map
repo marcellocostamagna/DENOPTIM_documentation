@@ -1,0 +1,19 @@
+<map id="denoptim.graph.Candidate.setChemicalRepresentation" name="denoptim.graph.Candidate.setChemicalRepresentation">
+<area shape="rect" id="node1" title="Just place the argument in the IAtomContainer field of this object." alt="" coords="1041,195,1233,236"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5cb6bbe9f383bf821f3b1f1c5e60031b" title=" " alt="" coords="806,136,975,177"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a98553265dd4b441b11c6d97d098edb08" title="Generates a new offspring by performing a crossover operation." alt="" coords="806,71,975,112"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#ad3d2daeb11e68a356e971ca1846596b5" title=" " alt="" coords="806,253,975,295"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_candidate.html#a316c1167a95b3ab5159b9ba9e9cbb8b9" title=" " alt="" coords="788,202,993,229"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a1688ab120fd681dabe18d8e60185371a" title=" " alt="" coords="807,5,974,47"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1task_1_1_fitness_task.html#a3ce62241b837ed3807a424211d9270c8" title=" " alt="" coords="791,371,990,412"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1task_1_1_fitness_task.html#afbea956df1830ac1fde3f7d71a588353" title="This method runs the actual evaluation of the fitness, whether that is run internally (i...." alt="" coords="541,352,740,393"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="551,164,730,205"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="293,169,459,211"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,212,211,253"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,147,198,188"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#ad43588620dab3340e0d8b0042ec73618" title="Fills up the population with candidates build from scratch." alt="" coords="547,241,734,283"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1ga_1_1_offspring_evaluation_task.html#aab5b9c0b8a88922460f5c28ae161d1fa" title=" " alt="" coords="273,352,479,393"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1programs_1_1fitnessevaluator_1_1_fitness_evaluation_task.html#a498b4214d06fc161d92cf1a38635ece3" title=" " alt="" coords="261,417,491,459"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1combinatorial_1_1_graph_building_task.html#a6b74fb1e5678145e094259bfa2401bd4" title=" " alt="" coords="259,287,493,328"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1combinatorial_1_1_graph_building_task.html#a3eaee724fc921194fa158714aafe182d" title="Calls the task." alt="" coords="11,287,205,328"/>
+</map>

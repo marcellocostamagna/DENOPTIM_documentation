@@ -1,0 +1,15 @@
+<map id="denoptim.graph.Template.getSymmetricAPSets" name="denoptim.graph.Template.getSymmetricAPSets">
+<area shape="rect" id="node1" title="The SymmetricSet produced from this method contain indexes of the AttachmentPoints in the list return..." alt="" coords="5,188,193,229"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#aca0357f0402f8d0d5191ed6b60826baf" title="Adds an identifiers to this list." alt="" coords="249,5,423,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_vertex.html#aee39019987712f9784138e97917ac97f" title="Get attachment point i on this vertex." alt="" coords="241,71,431,98"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_template.html#a2664edd3ee2ef51904029feebc844a18" title="Returns the index of the given AP in the sorted iterations over the keys of the mapping between inner..." alt="" coords="242,123,430,164"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="249,188,423,229"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_vertex.html#a93624f3ad6a89025e6bd7c4c830bdef2" title="For the given attachment point index locate the symmetric partners i.e." alt="" coords="251,253,421,295"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_d_graph.html#abf8bfa323ce9164047f0e9035b437fb5" title=" " alt="" coords="247,319,425,360"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a0c5e0508e1ff59a50fffa14c617ad889" title="Return the number of identifiers in this list." alt="" coords="249,384,423,425"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_vertex.html#a022f7c9075b178f17e13339b215ee21f" title=" " alt="" coords="483,64,653,105"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_vertex.html#a2e6be25b64054efbf23a10475d71664c" title=" " alt="" coords="483,253,653,295"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="944,345,1115,387"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_d_graph.html#af68c6f4772e3a77bbb4a63f98dc53d04" title=" " alt="" coords="479,375,657,416"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_d_graph.html#aff14a66b89e52205a4b6b6a633de0e7e" title="Returns the position of the first vertex that has the given ID." alt="" coords="705,375,896,416"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="denoptim.graph.DGraphTest.testGraphIsomorphism" name="denoptim.graph.DGraphTest.testGraphIsomorphism">
+<area shape="rect" id="node1" title=" " alt="" coords="5,665,213,707"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_empty_vertex.html#af9d9965c880b45d82e9b4cc10e60efa7" title="Adds an attachment point with a no APClass or other attribute." alt="" coords="539,13,767,39"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#a33a3299b77560786461345412d2fe193" title="Appends a vertex to this graph without creating any edge." alt="" coords="562,467,743,508"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_d_graph.html#a641d9078c27d992053500e12cec0049d" title="Append a vertex to this graph: adds the new vertex to the list of vertices belonging to the graph,..." alt="" coords="275,535,477,576"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_d_graph.html#a6f0b9a42074fe224ae52cee5f5875a7c" title="Returns almost &quot;deep&#45;copy&quot; of this graph." alt="" coords="281,1802,471,1829"/>
+<area shape="rect" id="node24" href="$classdenoptim_1_1graph_1_1_vertex.html#aee39019987712f9784138e97917ac97f" title="Get attachment point i on this vertex." alt="" coords="558,723,747,750"/>
+<area shape="rect" id="node25" href="$classdenoptim_1_1graph_1_1_d_graph.html#a305c9a12afe5bb190894fcd730ef299a" title="Checks if this graph is &quot;DENOPTIM&#45;isomorphic&quot; to the other one given." alt="" coords="291,1224,461,1265"/>
+<area shape="rect" id="node34" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a40943f435165950d263b76449ecc55fa" title="Build a graph meant to be used in unit tests." alt="" coords="267,469,485,511"/>
+<area shape="rect" id="node36" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#afeb207629b8c7053399256bc2fa2f654" title="Build a graph meant to be used in unit tests." alt="" coords="267,600,485,641"/>
+<area shape="rect" id="node37" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a78e0a424c267fe667e094704751430cb" title="Creates a test graph that looks like this:" alt="" coords="267,665,485,707"/>
+<area shape="rect" id="node40" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a32c600aa56729b962114649ff182394a" title="Creates a test graph that looks like this:" alt="" coords="267,783,485,824"/>
+<area shape="rect" id="node42" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a973ecea761d5353163750c8c82f41ac2" title=" " alt="" coords="261,243,491,270"/>
+<area shape="rect" id="node49" href="$classdenoptim_1_1graph_1_1_vertex.html#ad26ecf426a5e415605df94be904e58d3" title=" " alt="" coords="291,1853,461,1895"/>
+<area shape="rect" id="node50" href="$classdenoptim_1_1graph_1_1_vertex.html#aab761467eeeb2cc6c316b97da3af7927" title="Add the given key among the properties that are checked for equality when comparing vertices with the..." alt="" coords="291,1919,461,1960"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_empty_vertex.html#afa1da6d6552c046f4c09f3ab030badfe" title=" " alt="" coords="816,5,1023,47"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_d_graph.html#a104492665700f6225bb0a0fbc09479c1" title="Checks if a number is already used as VertexIDs within the graph." alt="" coords="815,435,1024,476"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_d_graph.html#abc9d9eae901e1e868183f8bdaca13aea" title=" " alt="" coords="830,500,1009,541"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_d_graph.html#aedfe0dc03ea1250a9944fcd30a888fa1" title="Adds the edge to the list of edges belonging to this graph." alt="" coords="547,622,758,649"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_ring.html#a26caae2f4e91d37ffb2f7f3becd97a8e" title="Append a DENOPTIMVertex to the list." alt="" coords="553,2014,753,2041"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_vertex.html#a05e1f8f3d4595534fb18c8d6b7e4a82d" title="Returns a deep&#45;copy of this vertex." alt="" coords="561,2065,745,2091"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8c53e13b64166fc85fc9a7787dadd46b" title=" " alt="" coords="551,2115,755,2142"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a774671253396558cf35ab75613762174" title="Returns the bond type preferred by this attachment point as defined by the APClass,..." alt="" coords="829,1605,1009,1647"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_vertex.html#a367c9d31e4bb13c16e865389c154a767" title="Returns the position of the given AP in the list of APs of this vertex." alt="" coords="567,1700,738,1741"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="834,1103,1005,1144"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_d_graph.html#af68c6f4772e3a77bbb4a63f98dc53d04" title=" " alt="" coords="563,1517,742,1559"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1graph_1_1_ring.html#a4d36b4964430194b787e708d47b00af5" title="Set the bond type (i.e., bond order) of the chord connecting the head and the tail vertices." alt="" coords="543,2166,762,2193"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1graph_1_1_d_graph.html#a30bfc345b743b8859c842b3b4e3ca5fa" title=" " alt="" coords="563,2217,742,2259"/>
+<area shape="rect" id="node20" href="$classdenoptim_1_1graph_1_1_d_graph.html#a421ce3718c62761e49a4dd4d0f20682c" title=" " alt="" coords="563,1635,742,1676"/>
+<area shape="rect" id="node21" href="$classdenoptim_1_1graph_1_1_d_graph.html#af5cb07ab0686739e6e1713da9d8959c1" title=" " alt="" coords="563,1765,742,1807"/>
+<area shape="rect" id="node22" href="$classdenoptim_1_1graph_1_1_d_graph.html#a5126283bcf1434c3366ea17bfac2c55f" title=" " alt="" coords="563,1883,742,1924"/>
+<area shape="rect" id="node23" href="$classdenoptim_1_1graph_1_1_d_graph.html#a98b344e795e1b992802f957ca63d19ca" title=" " alt="" coords="563,1948,742,1989"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_vertex.html#a022f7c9075b178f17e13339b215ee21f" title=" " alt="" coords="834,1511,1005,1552"/>
+<area shape="rect" id="node26" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#aca0357f0402f8d0d5191ed6b60826baf" title="Adds an identifiers to this list." alt="" coords="565,1125,740,1167"/>
+<area shape="rect" id="node27" href="$classdenoptim_1_1graph_1_1simplified_1_1_undirected_edge.html#ac7a25cc7fa015aee01be6566b4ba19f5" title=" " alt="" coords="567,1191,738,1232"/>
+<area shape="rect" id="node28" href="$classdenoptim_1_1graph_1_1_vertex.html#a200f775296c4c9804e3a2b59e065be8a" title="Returns the index of the building block that should correspond to the position of the building block ..." alt="" coords="567,1387,738,1428"/>
+<area shape="rect" id="node29" href="$classdenoptim_1_1graph_1_1_vertex.html#a6615f1c869173b8bd6d730c6683b9de4" title="Returns the graph this vertex belongs to or null." alt="" coords="567,1452,738,1493"/>
+<area shape="rect" id="node30" href="$classdenoptim_1_1utils_1_1_graph_conversion_tool.html#a19272670304e3754d153585abd49b030" title="Converts a DGraph into a simplified JGraphT DefaultUndirectedGraph." alt="" coords="550,1321,755,1363"/>
+<area shape="rect" id="node31" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="565,1008,740,1049"/>
+<area shape="rect" id="node32" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3f1f79ec1e07429a841f572dbf2e2f10" title=" " alt="" coords="563,1256,742,1297"/>
+<area shape="rect" id="node33" href="$classdenoptim_1_1graph_1_1_vertex.html#a7c03cfb4a9b0602d7de6952b33818188" title="Compares this and another vertex ignoring vertex IDs." alt="" coords="552,1074,753,1101"/>
+<area shape="rect" id="node35" href="$classdenoptim_1_1graph_1_1_vertex.html#aeed71fb5a76a745190ea6f0e3e0b939d" title="Builds a new molecular fragment kind of vertex." alt="" coords="564,556,741,597"/>
+<area shape="rect" id="node38" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8e33df7dddbe65f119e78b3c81dc7a3b" title="Adds a symmetric set of vertices to this graph." alt="" coords="562,840,743,881"/>
+<area shape="rect" id="node39" href="$classdenoptim_1_1graph_1_1_d_graph.html#a78dd305de83fa47a17964f9916519337" title="Reassign vertex IDs to all vertices of this graph." alt="" coords="545,775,760,816"/>
+<area shape="rect" id="node41" href="$classdenoptim_1_1graph_1_1_d_graph.html#ad16255987a45bace2ef62f2b49e0d873" title=" " alt="" coords="549,906,756,933"/>
+<area shape="rect" id="node43" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#a29a9f624b749868d8afd6aa5a987543d" title="Takes a vertex and add it to a given library." alt="" coords="555,401,750,443"/>
+<area shape="rect" id="node44" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#ac3651ea11f0b3f14f5aeab474bd43191" title=" " alt="" coords="556,64,749,105"/>
+<area shape="rect" id="node45" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#aed02226a5695be948ae2c33e787e22c3" title=" " alt="" coords="556,129,749,171"/>
+<area shape="rect" id="node46" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#ae30c8a77be3202d7072d5b0b66a6ae59" title=" " alt="" coords="556,195,749,236"/>
+<area shape="rect" id="node47" href="$classdenoptim_1_1graph_1_1_a_p_class.html#ac957566ebf8db3b83713ed0c12a56a3f" title="Creates an APClass if it does not exist already, or returns the reference to the existing instance." alt="" coords="553,285,752,311"/>
+<area shape="rect" id="node48" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#a4bbfced62cc83d37242245a13ef680f9" title="Set the fragment space to behave according to APClass&#45;based approach." alt="" coords="542,336,763,377"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="denoptim.graph.DGraphTest.makeTestGraphD" name="denoptim.graph.DGraphTest.makeTestGraphD">
+<area shape="rect" id="node1" title="Creates a test graph that looks like this:" alt="" coords="5,202,224,243"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_d_graph.html#aedfe0dc03ea1250a9944fcd30a888fa1" title="Adds the edge to the list of edges belonging to this graph." alt="" coords="274,5,485,32"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_d_graph.html#ad16255987a45bace2ef62f2b49e0d873" title=" " alt="" coords="276,56,483,83"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8e33df7dddbe65f119e78b3c81dc7a3b" title="Adds a symmetric set of vertices to this graph." alt="" coords="289,107,470,149"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_d_graph.html#a33a3299b77560786461345412d2fe193" title="Appends a vertex to this graph without creating any edge." alt="" coords="289,173,470,214"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_vertex.html#aee39019987712f9784138e97917ac97f" title="Get attachment point i on this vertex." alt="" coords="285,239,474,265"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="806,286,977,327"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_vertex.html#aeed71fb5a76a745190ea6f0e3e0b939d" title="Builds a new molecular fragment kind of vertex." alt="" coords="553,369,731,410"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_d_graph.html#a78dd305de83fa47a17964f9916519337" title="Reassign vertex IDs to all vertices of this graph." alt="" coords="272,454,487,495"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_d_graph.html#a104492665700f6225bb0a0fbc09479c1" title="Checks if a number is already used as VertexIDs within the graph." alt="" coords="537,97,747,138"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_d_graph.html#abc9d9eae901e1e868183f8bdaca13aea" title=" " alt="" coords="553,162,731,203"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_vertex.html#a022f7c9075b178f17e13339b215ee21f" title=" " alt="" coords="557,227,727,269"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1utils_1_1_graph_utils.html#a9d08e1ef48052456de71c3c6955f1945" title="Unique counter for the number of graph vertices generated." alt="" coords="797,351,985,393"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_d_graph.html#ac06114e85d2de27da6043ce161fa7523" title="Reassign vertex IDs to a graph." alt="" coords="535,482,749,523"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="804,417,979,458"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_d_graph.html#a49bc7aa7c45f3aeaf6aff41095456c6e" title="Get an iterator for the sets of symmetrically related vertices." alt="" coords="802,482,981,523"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3b7c2feb2da30079318f06819e0e6761" title=" " alt="" coords="802,547,981,589"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1graph_1_1_d_graph.html#ac9bd2a29337782ffdc07a2a2fc70f135" title=" " alt="" coords="802,613,981,654"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1graph_1_1_vertex.html#ad26ecf426a5e415605df94be904e58d3" title=" " alt="" coords="806,678,977,719"/>
+<area shape="rect" id="node20" href="$classdenoptim_1_1graph_1_1_vertex.html#adcb4510b9e479d5c37f9ccc12f9f5c5f" title=" " alt="" coords="806,743,977,785"/>
+</map>

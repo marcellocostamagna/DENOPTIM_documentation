@@ -1,0 +1,10 @@
+<map id="denoptim.graph.DGraph.removeBranchStartingAt" name="denoptim.graph.DGraph.removeBranchStartingAt">
+<area shape="rect" id="node1" title="Deletes the branch, i.e., the specified vertex and its children." alt="" coords="5,136,208,177"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="258,5,433,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_d_graph.html#a20f42db327541ed0474dcfa72269e949" title=" " alt="" coords="256,71,435,112"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#af68c6f4772e3a77bbb4a63f98dc53d04" title=" " alt="" coords="256,136,435,177"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_d_graph.html#ad6c07d79d0bf95370569f11ad4d4cadf" title=" " alt="" coords="487,197,669,239"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a0c5e0508e1ff59a50fffa14c617ad889" title="Return the number of identifiers in this list." alt="" coords="258,253,433,295"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_d_graph.html#aff14a66b89e52205a4b6b6a633de0e7e" title="Returns the position of the first vertex that has the given ID." alt="" coords="483,132,673,173"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="721,165,892,207"/>
+</map>

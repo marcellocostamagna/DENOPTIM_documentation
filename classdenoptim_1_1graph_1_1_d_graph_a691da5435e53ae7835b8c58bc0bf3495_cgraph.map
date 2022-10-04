@@ -1,0 +1,8 @@
+<map id="denoptim.graph.DGraph.convertSymmetricLabelsToSymmetricSets" name="denoptim.graph.DGraph.convertSymmetricLabelsToSymmetricSets">
+<area shape="rect" id="node1" title="Looks for any symmetric labels, creates symmetric sets that collect the same information,..." alt="" coords="5,104,232,145"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#aca0357f0402f8d0d5191ed6b60826baf" title="Adds an identifiers to this list." alt="" coords="283,5,458,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8e33df7dddbe65f119e78b3c81dc7a3b" title="Adds a symmetric set of vertices to this graph." alt="" coords="280,71,461,112"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3f1f79ec1e07429a841f572dbf2e2f10" title=" " alt="" coords="281,136,460,177"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_d_graph.html#ad6c07d79d0bf95370569f11ad4d4cadf" title=" " alt="" coords="280,201,461,243"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="509,169,680,211"/>
+</map>

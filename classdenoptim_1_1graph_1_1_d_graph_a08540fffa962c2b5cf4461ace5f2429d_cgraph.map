@@ -1,0 +1,17 @@
+<map id="denoptim.graph.DGraph.toJson" name="denoptim.graph.DGraph.toJson">
+<area shape="rect" id="node1" title="Produces a string that represents this graph and that adheres to the JSON format." alt="" coords="5,78,204,105"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1utils_1_1_graph_utils.html#aacbefbc93a3463aa963c9923749deea1" title="Unique counter for the number of molecules generated." alt="" coords="269,5,457,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1json_1_1_d_e_n_o_p_t_i_mgson.html#aa8cbbc7dcd366e9f1053c4b2b676e0d7" title=" " alt="" coords="252,71,475,112"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_d_graph.html#a78dd305de83fa47a17964f9916519337" title="Reassign vertex IDs to all vertices of this graph." alt="" coords="256,185,471,227"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1json_1_1_d_e_n_o_p_t_i_mgson.html#aa14de224ae5d1ae5156f11d5715d360c" title=" " alt="" coords="523,47,745,88"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1json_1_1_d_e_n_o_p_t_i_mgson.html#a4aafec42bd09225870fdf330db93b84c" title=" " alt="" coords="793,21,999,63"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_d_graph.html#ac06114e85d2de27da6043ce161fa7523" title="Reassign vertex IDs to a graph." alt="" coords="527,283,741,324"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_symmetric_set.html#a6b6cfeafce2492c331902274f7508f21" title="Return the list of symmetric identifiers." alt="" coords="809,87,983,128"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_d_graph.html#a49bc7aa7c45f3aeaf6aff41095456c6e" title="Get an iterator for the sets of symmetrically related vertices." alt="" coords="807,152,985,193"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1utils_1_1_graph_utils.html#a9d08e1ef48052456de71c3c6955f1945" title="Unique counter for the number of graph vertices generated." alt="" coords="802,217,990,259"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3b7c2feb2da30079318f06819e0e6761" title=" " alt="" coords="807,283,985,324"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="811,348,981,389"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_d_graph.html#ac9bd2a29337782ffdc07a2a2fc70f135" title=" " alt="" coords="807,413,985,455"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_vertex.html#ad26ecf426a5e415605df94be904e58d3" title=" " alt="" coords="811,479,981,520"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_vertex.html#adcb4510b9e479d5c37f9ccc12f9f5c5f" title=" " alt="" coords="811,544,981,585"/>
+</map>

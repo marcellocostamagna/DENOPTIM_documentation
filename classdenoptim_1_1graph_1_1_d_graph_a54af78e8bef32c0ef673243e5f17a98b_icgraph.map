@@ -1,0 +1,13 @@
+<map id="denoptim.graph.DGraph.checkConsistency" name="denoptim.graph.DGraph.checkConsistency">
+<area shape="rect" id="node1" title="Peeks into this graph to derive a preliminary chemical representation with SMILES and InChIKey." alt="" coords="948,136,1143,177"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5cb6bbe9f383bf821f3b1f1c5e60031b" title=" " alt="" coords="719,136,888,177"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a98553265dd4b441b11c6d97d098edb08" title="Generates a new offspring by performing a crossover operation." alt="" coords="719,71,888,112"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#ad3d2daeb11e68a356e971ca1846596b5" title=" " alt="" coords="719,267,888,308"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1combinatorial_1_1_graph_building_task.html#a3eaee724fc921194fa158714aafe182d" title="Calls the task." alt="" coords="707,201,900,243"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a1688ab120fd681dabe18d8e60185371a" title=" " alt="" coords="720,5,887,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="476,153,655,195"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="259,203,424,244"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,169,211,211"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,235,198,276"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#ad43588620dab3340e0d8b0042ec73618" title="Fills up the population with candidates build from scratch." alt="" coords="472,251,659,292"/>
+</map>

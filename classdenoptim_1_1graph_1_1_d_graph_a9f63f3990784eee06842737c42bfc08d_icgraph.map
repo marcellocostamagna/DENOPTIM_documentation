@@ -1,0 +1,9 @@
+<map id="denoptim.graph.DGraph.fixEdgeDirections" name="denoptim.graph.DGraph.fixEdgeDirections">
+<area shape="rect" id="node1" title="Flips edges in the graph so that the scaffold is the only source vertex." alt="" coords="809,117,981,159"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_d_graph.html#a45b3ec4b3b4d6384e49093e9b9449537" title="Sets the vertex at the lowest level as the scaffold, changes the &#160;&#160;directions of edges so that the sc..." alt="" coords="561,117,761,159"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_d_graph.html#a6fe5ab71083430bbab0b7d2e2f139c3a" title="Extracts subgraphs that match the provided pattern." alt="" coords="315,117,513,159"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#a32b0be109306e9c81fc830867296bc66" title="Extracts a system of one or more fused rings and adds them to the fragment space if not already prese..." alt="" coords="5,5,267,47"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_graph_operations_test.html#a81e15cea05ce67c5b0c2af89d301d072" title=" " alt="" coords="39,70,233,126"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1ga_1_1_graph_operations_test.html#a51afdfc40faf5bcc51609ddef161f078" title=" " alt="" coords="39,150,233,206"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_graph_operations_test.html#a161540d22b2ad17c44fc3e1a911a1367" title=" " alt="" coords="39,230,233,286"/>
+</map>

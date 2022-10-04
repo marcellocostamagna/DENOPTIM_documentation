@@ -1,0 +1,10 @@
+<map id="denoptim.graph.Fragment.updateSymmetryRelations" name="denoptim.graph.Fragment.updateSymmetryRelations">
+<area shape="rect" id="node1" title="Depends on an healthy list of attachment points with properly set pointers to the source atoms." alt="" coords="5,93,216,135"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_fragment.html#a9f0d8233f6ed31316409d643b5e0f0cd" title=" " alt="" coords="275,28,465,69"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_fragment.html#a41f439afd1ed84bc64fa895b440f47ce" title=" " alt="" coords="264,93,476,135"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_fragment.html#a66decdfeee2f583361c51e00ac598557" title=" " alt="" coords="275,159,465,200"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_fragment.html#a90fc66d07e071376ee45a32ab8a76020" title="Checks if the atoms at the given positions have similar environments i.e." alt="" coords="537,5,743,47"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_a_p_class.html#a5cac5d20b70a0eace014ce062a271fbf" title=" " alt="" coords="524,71,756,98"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a31bed4cb29f6437bf8a888a1dda3fd95" title="Returns the Attachment Point class." alt="" coords="550,123,730,164"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a7e45846280a63bd2bf36b85e502ffa49" title="The index of the source atom in the atom list of the fragment." alt="" coords="541,188,739,229"/>
+</map>

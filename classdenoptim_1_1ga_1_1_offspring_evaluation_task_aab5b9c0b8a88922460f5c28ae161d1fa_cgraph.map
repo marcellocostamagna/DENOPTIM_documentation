@@ -1,0 +1,52 @@
+<map id="denoptim.ga.OffspringEvaluationTask.call" name="denoptim.ga.OffspringEvaluationTask.call">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1852,212,1894"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_population.html#a4c6d546befc92708dbf8fff1aa840438" title=" " alt="" coords="301,173,481,200"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html#ad122ca1716c77c1f628596a723b5d63f" title="Extracts a system of one or more fused rings and adds them to the fragment space if not already prese..." alt="" coords="260,248,521,290"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_d_graph.html#a6f0b9a42074fe224ae52cee5f5875a7c" title="Returns almost &quot;deep&#45;copy&quot; of this graph." alt="" coords="295,874,486,901"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1molecularmodeling_1_1_three_dim_tree_builder.html#aa1352172290adaaf3a478ed7a90cf3fc" title="Created a three&#45;dimensional molecular representation from a given DGraph." alt="" coords="576,1349,801,1405"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1graph_1_1_candidate.html#a182985812f13f2e039da2912e7fc83f2" title=" " alt="" coords="295,1670,487,1711"/>
+<area shape="rect" id="node20" href="$classdenoptim_1_1graph_1_1_candidate.html#a0738609a1a3bec92633440d449a62c67" title=" " alt="" coords="856,1807,1048,1848"/>
+<area shape="rect" id="node21" href="$classdenoptim_1_1graph_1_1_candidate.html#a50cd0725a1b1c8766897427f2375e79d" title=" " alt="" coords="295,1852,487,1894"/>
+<area shape="rect" id="node22" href="$classdenoptim_1_1graph_1_1_d_graph.html#abc9d9eae901e1e868183f8bdaca13aea" title=" " alt="" coords="301,1918,480,1959"/>
+<area shape="rect" id="node23" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3e70a05980faed946fbf264a1fc6fa75" title=" " alt="" coords="301,1983,480,2024"/>
+<area shape="rect" id="node24" href="$classdenoptim_1_1programs_1_1_run_time_parameters.html#a5d529ee791990d15bde012d8dcd6b5c1" title="Get the name of the program specific logger." alt="" coords="859,1451,1045,1492"/>
+<area shape="rect" id="node25" href="$classdenoptim_1_1programs_1_1_run_time_parameters.html#ad9db6420b91ff13e0a8b2d02402c0242" title="Returns the current program&#45;specific randomizer." alt="" coords="595,1676,782,1718"/>
+<area shape="rect" id="node26" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_parameters.html#a50716dc3b5251aedb8175f752aeee3a6" title=" " alt="" coords="273,2048,509,2104"/>
+<area shape="rect" id="node27" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_parameters.html#afde62bf1166a90549691a8a7d507e8aa" title=" " alt="" coords="273,2128,509,2184"/>
+<area shape="rect" id="node28" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_parameters.html#a296be603cf47b2b8ea141e839f0fdf90" title=" " alt="" coords="273,2208,509,2264"/>
+<area shape="rect" id="node29" href="$classdenoptim_1_1graph_1_1_candidate.html#a7cddab657648c49bd4827d7a4650a475" title=" " alt="" coords="295,2287,487,2328"/>
+<area shape="rect" id="node30" href="$classdenoptim_1_1graph_1_1_candidate.html#a5c007ed1edb500326899f34540812fef" title=" " alt="" coords="283,2353,498,2380"/>
+<area shape="rect" id="node31" href="$classdenoptim_1_1logging_1_1_monitor.html#a70e3e14ab63e7e39ed3ce7d895aa01cf" title=" " alt="" coords="282,2404,499,2430"/>
+<area shape="rect" id="node33" href="$classdenoptim_1_1ga_1_1_population.html#a43092319305b5aaef2c335cabadc7d06" title="Checks if a given fitness value if within the given percentile of best candidates." alt="" coords="306,1735,475,1776"/>
+<area shape="rect" id="node36" href="$classdenoptim_1_1fitness_1_1_fitness_parameters.html#a7a3cb29d825e19656165ce3d937c9e88" title=" " alt="" coords="309,2455,473,2496"/>
+<area shape="rect" id="node37" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8fb951a35b028bcf098b8a83d94d7e75" title="Removes unused ring&#45;closing vertices." alt="" coords="289,314,492,355"/>
+<area shape="rect" id="node45" href="$classdenoptim_1_1task_1_1_fitness_task.html#afbea956df1830ac1fde3f7d71a588353" title="This method runs the actual evaluation of the fitness, whether that is run internally (i...." alt="" coords="291,1546,490,1587"/>
+<area shape="rect" id="node49" href="$classdenoptim_1_1graph_1_1_d_graph.html#a08540fffa962c2b5cf4461ace5f2429d" title="Produces a string that represents this graph and that adheres to the JSON format." alt="" coords="291,2521,490,2548"/>
+<area shape="rect" id="node50" href="$classdenoptim_1_1graph_1_1_d_graph.html#a964c16febfae88b341e3f878856acefb" title=" " alt="" coords="305,2572,476,2614"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_ring.html#a26caae2f4e91d37ffb2f7f3becd97a8e" title="Append a DENOPTIMVertex to the list." alt="" coords="589,1224,789,1250"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_vertex.html#a05e1f8f3d4595534fb18c8d6b7e4a82d" title="Returns a deep&#45;copy of this vertex." alt="" coords="597,546,781,573"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_d_graph.html#a8c53e13b64166fc85fc9a7787dadd46b" title=" " alt="" coords="587,597,791,624"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a774671253396558cf35ab75613762174" title="Returns the bond type preferred by this attachment point as defined by the APClass,..." alt="" coords="599,648,779,690"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_vertex.html#a367c9d31e4bb13c16e865389c154a767" title="Returns the position of the given AP in the list of APs of this vertex." alt="" coords="603,714,774,755"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="867,379,1037,420"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_d_graph.html#af68c6f4772e3a77bbb4a63f98dc53d04" title=" " alt="" coords="599,779,778,820"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_ring.html#a4d36b4964430194b787e708d47b00af5" title="Set the bond type (i.e., bond order) of the chord connecting the head and the tail vertices." alt="" coords="579,845,798,872"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_d_graph.html#a30bfc345b743b8859c842b3b4e3ca5fa" title=" " alt="" coords="599,896,778,938"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_d_graph.html#a421ce3718c62761e49a4dd4d0f20682c" title=" " alt="" coords="599,962,778,1003"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_d_graph.html#af5cb07ab0686739e6e1713da9d8959c1" title=" " alt="" coords="599,1027,778,1068"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_d_graph.html#a5126283bcf1434c3366ea17bfac2c55f" title=" " alt="" coords="599,1092,778,1134"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_d_graph.html#a98b344e795e1b992802f957ca63d19ca" title=" " alt="" coords="599,1158,778,1199"/>
+<area shape="rect" id="node32" href="$classdenoptim_1_1logging_1_1_monitor.html#ade26a9010bd7c28e7c2b215b76bc8e43" title=" " alt="" coords="576,2404,801,2430"/>
+<area shape="rect" id="node34" href="$classdenoptim_1_1ga_1_1_population.html#afa798c05fd795d3860b2d6e44c9791e5" title="Gets the maximum value of the fitness in this population." alt="" coords="600,1807,777,1848"/>
+<area shape="rect" id="node35" href="$classdenoptim_1_1ga_1_1_population.html#a0324ca75861e476b7f6480e740864ffb" title="Gets the minimum value of the fitness in this population." alt="" coords="600,1742,777,1783"/>
+<area shape="rect" id="node38" href="$classdenoptim_1_1graph_1_1_d_graph.html#a641d9078c27d992053500e12cec0049d" title="Append a vertex to this graph: adds the new vertex to the list of vertices belonging to the graph,..." alt="" coords="587,66,790,107"/>
+<area shape="rect" id="node39" href="$classdenoptim_1_1graph_1_1_vertex.html#aee39019987712f9784138e97917ac97f" title="Get attachment point i on this vertex." alt="" coords="594,132,783,158"/>
+<area shape="rect" id="node40" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a31bed4cb29f6437bf8a888a1dda3fd95" title="Returns the Attachment Point class." alt="" coords="599,183,779,224"/>
+<area shape="rect" id="node41" href="$classdenoptim_1_1graph_1_1_d_graph.html#a46e5563a41c18adbcee9aa60b39094fa" title="Search for ring closing vertices: vertices that contain only a RingClosingAttractor" alt="" coords="599,248,778,290"/>
+<area shape="rect" id="node42" href="$classdenoptim_1_1graph_1_1_d_graph.html#a3334159ed57d53d1e29bd34f31bfc9a4" title="Returns the list of rings that include the given vertex in their fundamental cycle." alt="" coords="863,467,1041,508"/>
+<area shape="rect" id="node43" href="$classdenoptim_1_1graph_1_1_d_graph.html#a40786de6efd159a5c54c122d0d3d2c1c" title="Remove a vertex from this graph." alt="" coords="587,379,790,420"/>
+<area shape="rect" id="node44" href="$classdenoptim_1_1graph_1_1_vertex.html#adcb4510b9e479d5c37f9ccc12f9f5c5f" title=" " alt="" coords="603,314,774,355"/>
+<area shape="rect" id="node46" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#ac0d5284bdf4e4631f18ffbea43496dc7" title="Generate a PNG image from molecule mol" alt="" coords="569,1611,808,1652"/>
+<area shape="rect" id="node47" href="$classdenoptim_1_1task_1_1_fitness_task.html#a3ce62241b837ed3807a424211d9270c8" title=" " alt="" coords="589,1480,788,1522"/>
+<area shape="rect" id="node48" href="$classdenoptim_1_1task_1_1_fitness_task.html#aa35dd8ab897188899e5498f953b6939e" title=" " alt="" coords="589,1546,788,1587"/>
+</map>

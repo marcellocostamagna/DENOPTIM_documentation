@@ -1,0 +1,15 @@
+<map id="denoptim.graph.Candidate.getSDFFile" name="denoptim.graph.Candidate.getSDFFile">
+<area shape="rect" id="node1" title=" " alt="" coords="971,104,1163,145"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5cb6bbe9f383bf821f3b1f1c5e60031b" title=" " alt="" coords="749,5,918,47"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a01ee989f992e0cff04e3498b63d6c0b0" title="Simply copies the files from the previous directories into the specified folder." alt="" coords="744,71,923,112"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#aafeb26c06b39ccb444c440d8f1f2c340" title="Write out summary for the current GA population." alt="" coords="744,136,923,177"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1gui_1_1_molecule_view_panel.html#af99749d5f2b6b6d83ce1b0f9b5c94095" title=" " alt="" coords="744,227,923,268"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a596b2f5f0b097c5b67a6e5163bd6fe66" title="Generates a given number of new candidate items and adds them to the current population." alt="" coords="501,5,680,47"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a6bfc2fa59b199da6259b5b6bad3d6de7" title=" " alt="" coords="265,64,431,105"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1ga_1_1_evolutionary_algorithm.html#a0f2063b722b7291daf83d62acaa683d3" title=" " alt="" coords="5,31,211,72"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1programs_1_1denovo_1_1_g_a_runner.html#a7cafd6d78727b89dce3e2c8d06f0dd7c" title=" " alt="" coords="18,96,198,137"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1ga_1_1_e_a_utils.html#a5d3fb7536032d02b0f3243fa3738cf45" title="Simply copies the files from the previous directories into the specified folder." alt="" coords="501,123,680,164"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1io_1_1_denoptim_i_o_test.html#af5c2f9114881ebde82a83f922c0c23fe" title=" " alt="" coords="485,188,696,229"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1gui_1_1_molecule_view_panel.html#a4e3a3010d8d8ac998af38872fd03f092" title=" " alt="" coords="501,253,680,295"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1gui_1_1_molecule_view_panel.html#a58a6483ddef60d65b376afd4098e9465" title="Constructor." alt="" coords="259,253,437,295"/>
+</map>

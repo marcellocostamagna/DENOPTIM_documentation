@@ -1,0 +1,22 @@
+<map id="denoptim.graph.Fragment.clone" name="denoptim.graph.Fragment.clone">
+<area shape="rect" id="node1" title="Returns a deep copy of this fragments." alt="" coords="5,503,208,530"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_vertex.html#a6e237f0bbd68ebc3c6cd4278713ea7b2" title="Copies all the string&#45;based properties and properties defined in the Vertex#uniquefyingPropertyKeys s..." alt="" coords="275,5,455,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_fragment.html#ad9843701125210a688964d85a77bfac4" title="Constructor of an empty fragment." alt="" coords="280,71,451,112"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1graph_1_1_vertex.html#a200f775296c4c9804e3a2b59e065be8a" title="Returns the index of the building block that should correspond to the position of the building block ..." alt="" coords="280,136,451,177"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_vertex.html#a46dadb5fd30f1877db91e97ae55c2dd8" title=" " alt="" coords="280,201,451,243"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1graph_1_1_fragment.html#a89c8b667604155a6403e59a8e8c00cc4" title=" " alt="" coords="271,267,460,308"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1graph_1_1_vertex.html#a5671e1d926fba782f48c494d61980d29" title="Returns the mutation types that are constitutionally configures for this vertex irrespectively on the..." alt="" coords="280,332,451,373"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1graph_1_1_vertex.html#af44ae05546096ec9060d7207f38bc8e9" title=" " alt="" coords="280,397,451,439"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#a377eae6a6254a6d1bd0f218fc2552af3" title="Constructs a copy of an atom container, i.e., a molecule that reflects the one given in the input arg..." alt="" coords="256,463,475,504"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_fragment.html#a8d33526e74e10db5d8db591544d6836a" title="Takes the list of APs from the field of this class and projects the APs into properties of the IAtoms..." alt="" coords="260,528,471,569"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_vertex.html#a5dbac662f4102558f3cf874c55174c5e" title=" " alt="" coords="280,593,451,635"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1graph_1_1_vertex.html#a867032399d8aad0a894cbf5b51406ac4" title=" " alt="" coords="280,659,451,700"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_vertex.html#ab8088bc1c894c7c916ca8d8a151fa905" title=" " alt="" coords="280,724,451,765"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_vertex.html#a0e1114b16856fd16a2de9cface2ea806" title=" " alt="" coords="280,789,451,831"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1graph_1_1_vertex.html#a1b3682ddb7fc71fdd981526b43d773dc" title=" " alt="" coords="280,855,451,896"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1graph_1_1_fragment.html#a66decdfeee2f583361c51e00ac598557" title=" " alt="" coords="271,920,460,961"/>
+<area shape="rect" id="node20" href="$classdenoptim_1_1graph_1_1_vertex.html#adcb4510b9e479d5c37f9ccc12f9f5c5f" title=" " alt="" coords="280,985,451,1027"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#a68a0db70d2e6d3252269574918177014" title="Method that constructs an atom that reflect the same atom given as parameter in terms of element symb..." alt="" coords="523,463,741,504"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_fragment.html#a551361a1155600e6e2fe4e37590c924f" title=" " alt="" coords="537,528,727,569"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_attachment_point.html#a7e45846280a63bd2bf36b85e502ffa49" title="The index of the source atom in the atom list of the fragment." alt="" coords="533,593,731,635"/>
+</map>
